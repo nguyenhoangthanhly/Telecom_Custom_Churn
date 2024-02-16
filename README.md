@@ -24,4 +24,16 @@ Tập dữ liệu bao gồm 7043 bản ghi, tương ứng 7043 khách hàng, m�
   16. Contract: thời hạn hợp đồng của khách hàng (Month-to-month|One year|two year)
   17. PaperlessBilling: khách hàng thanh toán có sử dụng hóa đơn giấy không (Yes|No)
   18. PaymentMethod: Phương thức thanh toán của khách hàng (Electronic check|Mailed check|Bank transfer|Credit card)
-  19. MonthlyCharges
+  19. MonthlyCharges: Số tiền mà khách hàng phải trả hàng tháng (int)
+  20. TotalCharges: Tổng số tiền khách hàng phải trả
+  21. Churn: Tình trạng khách hàng rời bỏ hay không (Yes|No)
+
+# 1.2 Mô tả bài toán
+  - Khách hàng rời bỏ (Customer churn) được định nghĩa là khách hàng hocawj người đanngư ký ngưng kinh doanh với một công ty hoặc dịch vụ
+  - Khách hàng trong ngành viễn thông có thể lựa chọn từ nhiều nhà cung cấp dịch vụ khác nhau. và khách hàng có thể dễ dàng chuyển đổi từ nhà cung cấp này sang nhà cung cấp khác.
+  - Trong thị trường cạnh tranh cao của ngành viễn thông tỷ lệ rời bỏ khách là một thước đo quan trọng. Việc giữ chân một khách hàng hiện tại sẽ ít tốn kém hơn nhiều so với việc thu hút khách hàng mới
+
+# 1.3 Mục tiêu
+  - Phân tích tập dữ liệu để thấy được chân dung khách hàng đăng ký sử dụng dịch vụ của công ty.
+  - Tập trung vào nhóm khách hàng đã rời bỏ, xác định các yếu tố quan trọng ảnh hưởng tới việc rời bỏ của khách hàng.
+  - Đưa ra các khuyến nghị để công ty xem xét, cải thiện các yếu tố giúp giữ chân khách hàng.
