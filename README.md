@@ -50,9 +50,59 @@ Tập dữ liệu bao gồm 7043 bản ghi, tương ứng 7043 khách hàng, m�
   - Đưa ra các khuyến nghị để công ty xem xét, cải thiện các yếu tố giúp giữ chân khách hàng.
 
 # 2.1 Chân dung khách hàng
-![Gender](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/cd5b8469-e91a-4de4-bb49-d7c80794ea4e) ![Tron_Gender](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/6ef04470-8b0c-4b30-8341-13026b007956)
-
-
+![Gender](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/cd5b8469-e91a-4de4-bb49-d7c80794ea4e) 
+![Tron_Gender](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/6ef04470-8b0c-4b30-8341-13026b007956)
+![SeniorCitizen](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/8481ea7b-042c-414f-ba97-c238b2c89f8b)
+![Tron_SeniorCitizen](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/b5a22b75-ae10-4099-8d8b-4d8663bf4529)
+![Dependents](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/4beacda1-68a9-4622-9af6-feda15eb79c5)
+![Tron_Dependents](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/1d59f8cf-addf-4f80-8ad6-7641900ba593)
+![Contract](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/bcff6386-ace7-446b-9d20-216f4a953273)
+![Tron_Contract](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/98dac770-1837-410d-965e-b5fd231e9483)
+![PaymentMethod](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/fe95ceb3-fa5c-46d6-9a3f-377cf6a89aaf)
+![Tron_PaymentMethod](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/72e5f7dd-0dee-4d7a-ad11-ed8017e78f84)
+![Phone Service](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/86cffb7d-72fc-482d-ad93-b65adbed407a)
+![Tron_Phone Service](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/50ea1a0b-8f49-473a-9b6f-865b18081533)
+![Multiple Lines](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/ab8ab432-b039-4466-9d7d-2d60014a4cfe)
+![Tron_Multiple Lines](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/3f1e2f2d-a5d6-456a-8d5c-ffef1a049667)
+![Internet Service](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/3c93a46d-7e94-4b4c-8120-c4a5086e8399)
+![Tron_Internet Service](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/0553e75c-eda4-46b5-965c-bcb124e920c5)
+![Online Security](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/2eb3a0de-fdf6-4873-8afa-5253199f3492)
+![Tron_Online Security](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/46d4b437-acf0-4e5a-8d83-bda4db037dfe)
+![Online Backup](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/2febc1c3-cbeb-4540-9389-81f94e2ee1d7)
+![Tron_Online Backup](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/f07297e6-a1da-49d5-9356-798c2d080426)
+![Device Protection Plan](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/479d2507-5258-4480-8554-6abb1236096d)
+![Tron_Device Protection Plan](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/da98d3cc-9082-4906-820e-544979a30633)
+![Premium Tech Support](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/9a93e26d-1234-41b8-970d-b91462c93e36)
+![Tron_Premium Tech Support](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/ae82911a-c018-4396-99c5-339c5d8fc6b6)
+![Streaming TV](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/9f033047-7a7d-4382-9471-d991ae7a3bc8)
+![Tron_Streaming TV](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/3c492fad-0506-4639-a1f3-f1adbc67c29b)
+![Streaming Music](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/b0d314e6-3cdf-485f-92f4-aed1955f7616)
+![Tron_Streaming Music](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/99ec6316-9451-4385-8120-8d4984da3a96)
+![Streaming Movies](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/16dfdc95-1055-46cb-9d21-a5a38d2bc126)
+![Tron_Streaming Movies](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/2263f255-c616-4607-9a22-92e1f875353e)
 # 2.2 Tỷ lệ khách hàng rời bỏ
   - Customer Churn Rate là một trong những chỉ số quan trọng đối với doanh nghiệp. Chỉ số này phản ánh chất lượng sản phẩm, dịch vụ trong mắt người tiêu dùng và thái độ của người tiêu dùng đối với sản phẩm, dịch vụ mà doanh nghiệp cung cấp.
+![Customer Status](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/6a49e2a4-a0ad-4566-88b8-f499601a0f5c)
+![Tron_Customer Status](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/37bc5972-9639-43e1-8122-6c634b497e9e)
+
 ## 2.2.1 Tỷ lệ khách hàng rời bỏ theo giới tính
+![countplot_Gender](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/cc58bcdc-3201-4f3e-ba8d-8050ca3620b0)
+## 2.2.2 Tỷ lệ khách hàng rời bỏ theo Độ tuổi
+![countplot_SeniorCitizen](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/f10c92e9-2aaa-42f9-a2c0-a0f949c24845)
+
+## 2.2.3 Tỷ lệ khách hàng rời bỏ theo Hợp đồng
+![countplot_Contract](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/3c6ef83b-2fc9-44ec-a743-39235a2b420a)
+
+## 2.2.4 Tỷ lệ khách hàng rời bỏ theo Dịch vụ Internet
+![countplot_InternetType](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/f4073f80-d903-42d9-91dd-c934123fd669)
+
+## 2.2.5 Tỷ lệ khách hàng rời bỏ theo Phương thức thanh toán
+![countplot_PaymentMethod](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/f9b63dd2-b6e2-4151-a8a7-de1b0f1a2c39)
+
+# 3. Kết Luận
+  - Tỷ lệ khách hàng rời bỏ công ty đang ở mức 26.5% đang ở mức khá cao ==> Cần đẩy mạnh các chiến lược để giữ chân khách hàng
+  - Một số kiến nghị nên xem xét khi đưa ra chính sách, cải thiện dịch vụ hiện có để giữ chân khách hàng
+      + Xem xét các dịch vụ, chính sách với nhóm khách hàng trung niên. Nhóm khách hàng trung niên của công ty chiếm tới 55% (3874/7043 khách hàng) nhưng có hơn 933 khách hàng rời bỏ chiếm tới gần 25%
+      + Kiểm tra lại dịch vụ Internet cáp quang đang cung cấp, có hơn 3035/7043 khách hàng sử dụng Fiber Optic chiếm 43.09%. Trong đó, có 1236/3035 khách hàng đang sử dụng Fiber Optic lại chọn rời bỏ chiếm tới 40.7%
+      + Có các chính sách phù hợp với khách hàng có hợp đồng Month-to-Month, marketing, khuyến mãi để chuyển sang hợp đồng lâu dài. Vì tỷ lệ khách hàng rời bỏ khi sử dụng hợp đồng Month-to-Month chiếm tới 45.84% trong 3610 khách hàng sử dụng Month-to-Month.
+      + Rà soát cải thiện phương thức thanh toán "Bank Withdrawal" có đang gây khó khăn, bất tiện gì cho khách hàng hay không. Tỷ lệ khách hàng rời bỏ khi sử dụng phương thức thanh toán "Bank Withdrawal" chiếm tới 33.99%.
