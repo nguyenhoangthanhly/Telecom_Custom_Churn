@@ -50,8 +50,8 @@ Tập dữ liệu bao gồm 7043 bản ghi, tương ứng 7043 khách hàng, m�
   - Đưa ra các khuyến nghị để công ty xem xét, cải thiện các yếu tố giúp giữ chân khách hàng.
 
 # 2.1 Chân dung khách hàng
-![Gender](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/cd5b8469-e91a-4de4-bb49-d7c80794ea4e)
-![Tron_Gender](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/6ef04470-8b0c-4b30-8341-13026b007956)
+![Gender](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/cd5b8469-e91a-4de4-bb49-d7c80794ea4e) ![Tron_Gender](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/6ef04470-8b0c-4b30-8341-13026b007956)
+
 
 # 2.2 Tỷ lệ khách hàng rời bỏ
   - Customer Churn Rate là một trong những chỉ số quan trọng đối với doanh nghiệp. Chỉ số này phản ánh chất lượng sản phẩm, dịch vụ trong mắt người tiêu dùng và thái độ của người tiêu dùng đối với sản phẩm, dịch vụ mà doanh nghiệp cung cấp.
