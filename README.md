@@ -85,19 +85,8 @@ Tập dữ liệu bao gồm 7043 bản ghi, tương ứng 7043 khách hàng, m�
 ![Customer Status](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/6a49e2a4-a0ad-4566-88b8-f499601a0f5c)
 ![Tron_Customer Status](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/37bc5972-9639-43e1-8122-6c634b497e9e)
 
-## 2.2.1 Tỷ lệ khách hàng rời bỏ theo giới tính
+## 2.2.1 Tỷ lệ khách hàng rời bỏ
 ![countplot_Gender](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/cc58bcdc-3201-4f3e-ba8d-8050ca3620b0)
-## 2.2.2 Tỷ lệ khách hàng rời bỏ theo Độ tuổi
-![countplot_SeniorCitizen](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/f10c92e9-2aaa-42f9-a2c0-a0f949c24845)
-
-## 2.2.3 Tỷ lệ khách hàng rời bỏ theo Hợp đồng
-![countplot_Contract](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/3c6ef83b-2fc9-44ec-a743-39235a2b420a)
-
-## 2.2.4 Tỷ lệ khách hàng rời bỏ theo Dịch vụ Internet
-![countplot_InternetType](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/f4073f80-d903-42d9-91dd-c934123fd669)
-
-## 2.2.5 Tỷ lệ khách hàng rời bỏ theo Phương thức thanh toán
-![countplot_PaymentMethod](https://github.com/nguyenhoangthanhly/Telecom_Custom_Churn/assets/117055865/f9b63dd2-b6e2-4151-a8a7-de1b0f1a2c39)
 
 # 3. Kết Luận
   - Tỷ lệ khách hàng rời bỏ công ty đang ở mức 26.5% đang ở mức khá cao ==> Cần đẩy mạnh các chiến lược để giữ chân khách hàng
